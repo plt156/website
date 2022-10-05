@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Back into the world of creativity, art and imagination!
+    text: Shower your love, support and encouragement
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "Services"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "All the creations are exclusively hand made by me. Please shower your love, support and encouragement by sharing these with your friends and family."
     section: portfolio
     closebutton: "Close Project"
 
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About PLT"
+    text: "story"
+    body: "After a long hiatus I am back into the world of creativity, art and imagination. I am elated to announce the advent of Pretty Little Things. All the creations are exclusively hand made by me. Please shower your love, support and encouragement by sharing these with your friends and family. Since Diwali is round the corner – it is your opportunity to add these gorgeous pieces to your and your loved ones homes."
     section: about
 
   clients:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "avnika18(at)live.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
