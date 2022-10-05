@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Back into the world of creativity, art and imagination!
+    title: Avnika Bhandari is back into the world of creativity, art and imagination!
     text: Shower your love, support and encouragement
     button: Tell Me More
     buttonlink: "#portfolio"
@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "The Creamy Connection"
         year: "2017"
-        desc: "By this time I had acquired a Diploma in Patisserie from City and Guilds, London."
+        desc: "By this time I had acquired a Diploma in Patisserie from City and Guilds, London. [My creations](https://www.facebook.com/thecreamyconnection)"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Pretty Little Things"
@@ -75,22 +75,31 @@ en: &DEFAULT_EN
     section: about
 
   clients:
-    section: clients
+    section: UpcomingProducts
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Resin Cake Stands"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "Ceramic Mugs & Plates"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+      - title: "Cake boxes"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+      - title: "Soap"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
+      - title: "Candles"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/candles.jpg
+      - title: "Wax Sachets"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/wax.jpg
+      - title: "Edible Printables"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/edible.jpg
 
   team:
     title: "Members of Pretty Little Things"
