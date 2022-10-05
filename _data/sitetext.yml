@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Let me help you to navigate past the following quandaries "
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Table Decoration"
+        desc: ""
+        icon: fas fa-utensils #find more at https://fontawesome.com/icons
+      - title: "Party Decoration"
+        desc: ""
+        icon: fas fa-gifts
+      - title: "Dessert Table"
+        desc: ""
+        icon: fab fa-cake-candles
 
   portfolio:
     title: "Portfolio"
@@ -39,39 +39,39 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "A brief history of my creativity"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Binge Food Products"
+        year: "2012-2017"
+        desc: "Binge was an umbrella brand name for a variety of decadent and Delicious home-made sweets treats. Those were pure treats made without any preservatives and chemicals"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Creamy Connection"
+        year: "2017"
+        desc: "By this time I had acquired a Diploma in Patisserie from City and Guilds, London."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Pretty Little Things"
+        year: "Oct 2022 - Current"
+        desc: "After a long hiatus I am back into the world of creativity, art and imagination. I am elated to announce the advent of Pretty Little Things. All the creations are exclusively hand made by me. "
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+      # - title: "Title"
+      #   year: "2009-2011"
+      #   desc: "Your description here, **Markdown** is fully supported."
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
+      #   # you can enforce the alignment
+      #   align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About PLT"
     text: "story"
-    body: "After a long hiatus I am back into the world of creativity, art and imagination. I am elated to announce the advent of Pretty Little Things. All the creations are exclusively hand made by me. Please shower your love, support and encouragement by sharing these with your friends and family. Since Diwali is round the corner – it is your opportunity to add these gorgeous pieces to your and your loved ones homes."
+    body: "After a long hiatus I am back into the world of creativity, art and imagination. I am elated to announce the advent of Pretty Little Things. All the creations are exclusively hand made by me. Please shower your love, support and encouragement by sharing these with your friends and family. Since Diwali is round the corner, it is your opportunity to add these gorgeous pieces to your and your loved ones homes."
     section: about
 
   clients:
@@ -93,14 +93,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Members of Pretty Little Things"
+    text: "Pretty Little things is a venture by Avnika Bhandari"
+    subtext:  Chef Avnika Bhandari who has a Diploma in Patisserie from City and Guilds London. Possessing a background in Confectionary (Chocolates, Cup cakes, cakes, desserts) as well as Jewellery designing. Along with her creative hobbies she has mastered the art of Cooking, painting, drawing, glass painting, calligraphy, elocution, table design, resin art and decoupage.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Avnika Bhandari"
+        role: "Owner"
+        image: assets/img/team/avnika.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,26 +108,26 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      # - name: "Larry Parker"
+      #   role: "Lead Marketer"
+      #   image: assets/img/team/2.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
+      # - name: "Diana Perterson"
+      #   role: "Lead Developer"
+      #   image: assets/img/team/500x500.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
