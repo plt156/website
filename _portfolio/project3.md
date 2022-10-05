@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: DEEP SEA
+subtitle: PLT156BT.
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: DEEP SEA
+  subtitle: PLT156BT
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+title: DEEP SEA
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- INR 1650
+- 12 by 6 inches
+- Resin Metal Trays
+- Blue Teal

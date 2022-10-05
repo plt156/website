@@ -10,4 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 
-## PLEATS OF YELLOW
+PLEATS OF YELLOW
+
+- INR 1650
+- 12 by 6 inches
+- Resin Metal Trays
+- Yellows

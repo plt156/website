@@ -10,3 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 GREEN GALLOPS
+
+- INR 1650
+- 12 by 6 inches
+- Resin Metal Trays
+- Green gold

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: YELLOW YETI
+subtitle: PLT156YG.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: YELLOW YETI
+  subtitle: PLT156YG
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+YELLOW YETI
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- INR 1650
+- 12 by 6 inches
+- Resin Metal Trays
+- Yellow gold
 
