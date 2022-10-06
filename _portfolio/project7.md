@@ -7,7 +7,7 @@ alt:
 caption:
   title: HINT OF GOLD
   subtitle: PLT156BG
-  thumbnail: assets/img/portfolio/PLT156BG_thumb.jpg
+  thumbnail: assets/img/portfolio/PLT156BG_thumb.JPG
 ---
 HINT OF GOLD
 
