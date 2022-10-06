@@ -7,7 +7,7 @@ alt:
 caption:
   title: SHIMMERING TURQUOISE
   subtitle: PLT156GT
-  thumbnail: assets/img/portfolio/PLT156GT_thumb.jpg
+  thumbnail: assets/img/portfolio/PLT156GT_thumb.JPG
 ---
 SHIMMERING TURQUOISE
 
