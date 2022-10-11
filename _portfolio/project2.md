@@ -1,18 +1,18 @@
 ---
-title: PLEATS OF YELLOW
-subtitle: PLT156PY.
-image: assets/img/portfolio/02-full.jpg
-alt: PLT156PY
+title: ULTRAMARINUS BLUE
+subtitle: PLT156BBB
+image: assets/img/portfolio/plt156bbb_full.png
+alt: PLT156BBB
 
 caption:
-  title: PLEATS OF YELLOW
-  subtitle: PLT156PY
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: ULTRAMARINUS BLUE
+  subtitle: PLT156BBB
+  thumbnail: assets/img/portfolio/plt156bbb_thumb.png
 ---
 
-PLEATS OF YELLOW
+ULTRAMARINUS BLUE
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Yellows
+- Blues

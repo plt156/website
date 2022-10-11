@@ -1,17 +1,18 @@
 ---
-title: DREAM GREEN
-subtitle: PLT156TG.
-image: assets/img/portfolio/dream_green_full.JPG
+title: ELECTRUM GREEN
+subtitle: PLT156BGRT
+image: assets/img/portfolio/plt156bgrt_full.png
 alt: 
 
 caption:
-  title: DREAM GREEN
-  subtitle: PLT156TG
-  thumbnail: assets/img/portfolio/dream_green_thumb.JPG
+  title: ELECTRUM GREEN
+  subtitle: PLT156BGRT
+  thumbnail: assets/img/portfolio/plt156bgrt_thumb.png
 ---
 DREAM GREEN
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Teal Green
+- Black Green Gold
+- Electrum is alloy of dark gold and silver

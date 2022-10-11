@@ -1,17 +1,17 @@
 ---
-title: PERCHED PURPLE
-subtitle: PLT156PP.
-image: assets/img/portfolio/PERCHED_PURPLE_FULL.JPG
+title: COLORS OF LOVE
+subtitle: PLT156RRR.
+image: assets/img/portfolio/plt156rrr_full.png
 alt: 
 
 caption:
-  title: PERCHED PURPLE
-  subtitle: PLT156PP
-  thumbnail: assets/img/portfolio/PERCHED_PURPLE_THUMB.JPG
+  title: COLORS OF LOVE
+  subtitle: PLT156RRR
+  thumbnail: assets/img/portfolio/plt156rrr_thumb.png
 ---
-PERCHED PURPLE
+COLORS OF LOVE
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Twin Purple
+- Splash of reds

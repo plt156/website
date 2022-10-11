@@ -1,17 +1,18 @@
 ---
-title: HINT OF GOLD
-subtitle: PLT156BG.
-image: assets/img/portfolio/PLT156BG_full.JPG
+title: AMAZONITE SHIMMER
+subtitle: PLT156BGT.
+image: assets/img/portfolio/plt156bgt_full.png
 alt: 
 
 caption:
-  title: HINT OF GOLD
-  subtitle: PLT156BG
-  thumbnail: assets/img/portfolio/PLT156BG_thumb.JPG
+  title: AMAZONITE SHIMMER
+  subtitle: PLT156BGT
+  thumbnail: assets/img/portfolio/plt156bgt_thumb.png
 ---
-HINT OF GOLD
+AMAZONITE SHIMMER
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Black And Gold
+- Blue And Green
+- Amazonite stone can uplift your life in profound ways. Its energy is known to sooth the most troubled souls by inspiring hope in their hearts.

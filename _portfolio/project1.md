@@ -1,17 +1,17 @@
 ---
-title: GREEN GALLOPS
-subtitle: PLT156GG.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: VIVID NEON
+subtitle: PLT156NC.
+image: assets/img/portfolio/plt156nc_full.png
+alt: VIVID NEON
 
 caption:
-  title: GREEN GALLOPS
-  subtitle: PLT156GG
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: VIVID NEON
+  subtitle: PLT156NC
+  thumbnail: assets/img/portfolio/plt156nc_thumb.png
 ---
-GREEN GALLOPS
+VIVID NEON
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Green gold
+- Neon Colors

@@ -1,17 +1,17 @@
 ---
-title: PURPLE HAZE
-subtitle: PLT156BP.
-image: assets/img/portfolio/06-full.jpg
+title: PSYCHEDELIC SPLASH
+subtitle: PLT156MCR
+image: assets/img/portfolio/plt156mcr_full.png
 alt: 
 
 caption:
-  title: PURPLE HAZE
-  subtitle: PLT156BP
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: PSYCHEDELIC SPLASH
+  subtitle: PLT156MCR
+  thumbnail: assets/img/portfolio/plt156mcr_thumb.png
 ---
-PURPLE HAZE
+PSYCHEDELIC SPLASH
 
 - INR 1650
 - 12 by 6 inches
 - Resin Metal Trays
-- Blue Purple
+- Multicolored 
