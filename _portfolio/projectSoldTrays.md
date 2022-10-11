@@ -1,13 +1,13 @@
 ---
 title: Sold Out Resin Metallic Trays
-subtitle: These creations have been lapped up by the admirers.
+subtitle: Out of stock. Since these are handmade creations - it is difficult to replicate the exact one.
 image: assets/img/portfolio/soldOutFull.jpg
 alt: 
 
 caption:
-  title: These resin trays are no longer available
-  subtitle: Out of stock. Since these are handmade creations - it is difficult to replicate the exact one.
-  thumbnail: assets/img/portfolio/soldOutFullThumb.jpg
+  title: These creations have been lapped up by the admirers.
+  subtitle: These resin trays are no longer available
+  thumbnail: assets/img/portfolio/soldOutThumb.jpg
 ---
 
 
@@ -43,7 +43,7 @@ caption:
          <div class="card mb-4 text-white bg-dark">
             <img class="card-img-top" src="assets/img/portfolio/06-thumbnail.jpg" alt="Card image cap">
             <div class="card-body">
-               <h5 class="card-title">PURPLE HAZE</p>  
+               <h5 class="card-title">PURPLE HAZE</h5>  
                <p class="card-text">PLT156BP.</p>  
             </div>
          </div>
@@ -52,7 +52,7 @@ caption:
          <div class="card mb-4 text-white bg-dark">
             <img class="card-img-top" src="assets/img/portfolio/PLT156BG_thumb.JPG" alt="Card image cap">
             <div class="card-body">
-               <h5 class="card-title">HINT OF GOLD</p>
+               <h5 class="card-title">HINT OF GOLD</h5>
                 <p class="card-text">PLT156BG.</p>    
             </div>
          </div>
@@ -61,7 +61,7 @@ caption:
          <div class="card mb-4 text-white bg-dark">
             <img class="card-img-top" src="assets/img/portfolio/PERCHED_PURPLE_THUMB.JPG" alt="Card image cap">
             <div class="card-body">
-               <h5 class="card-title">PERCHED PURPLE</p>
+               <h5 class="card-title">PERCHED PURPLE</h5>
                 <p class="card-text">PLT156PP.</p>    
             </div>
          </div>
@@ -70,7 +70,7 @@ caption:
          <div class="card mb-4 text-white bg-dark">
             <img class="card-img-top" src="assets/img/portfolio/dream_green_thumb.JPG" alt="Card image cap">
             <div class="card-body">
-               <h5 class="card-title">DREAM GREEN</p>
+               <h5 class="card-title">DREAM GREEN</h5>
                 <p class="card-text">PLT156TG.</p>    
             </div>
          </div>
