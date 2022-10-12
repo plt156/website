@@ -14,7 +14,7 @@ caption:
 <div class="row">
       <div class="col-md-4">
          <div class="card mb-4">
-            <img class="card-img-top" src="assets/img/portfolio/01-thumbnail.jpg" alt="Card image cap">
+            <img class="card-img-top text-white bg-dark" src="assets/img/portfolio/01-thumbnail.jpg" alt="Card image cap">
             <div class="card-body">
                <h5 class="card-title">GREEN GALLOPS</h5>
                <p class="card-text">PLT156GG</p>
@@ -22,7 +22,7 @@ caption:
          </div>
       </div>
       <div class="col-md-4">
-         <div class="card mb-4 border-dark">
+         <div class="card mb-4 text-white bg-dark">
             <img class="card-img-top" src="assets/img/portfolio/02-thumbnail.jpg" alt="Card image cap">
             <div class="card-body">
                <h5 class="card-title">PLEATS OF YELLOW</h5>
@@ -50,10 +50,10 @@ caption:
       </div>
        <div class="col-md-4">
          <div class="card mb-4 text-white bg-dark">
-            <img class="card-img-top" src="assets/img/portfolio/PLT156BG_thumb.JPG" alt="Card image cap">
+            <img class="card-img-top" src="assets/img/portfolio/plt156mg_thumb.png" alt="Card image cap">
             <div class="card-body">
-               <h5 class="card-title">HINT OF GOLD</h5>
-                <p class="card-text">PLT156BG.</p>    
+               <h5 class="card-title">MAGNETIC MAGENTA</h5>
+                <p class="card-text">PLT156MG</p>    
             </div>
          </div>
       </div>
@@ -72,6 +72,33 @@ caption:
             <div class="card-body">
                <h5 class="card-title">DREAM GREEN</h5>
                 <p class="card-text">PLT156TG.</p>    
+            </div>
+         </div>
+      </div>
+       <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156bb_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">BOLD BLUE</h5>
+                <p class="card-text">PLT156BB</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156gb_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">GOLDEN STALLION</h5>
+                <p class="card-text">PLT156GB</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156pg_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">PERFECT PURPLE</h5>
+                <p class="card-text">PLT156PG</p>    
             </div>
          </div>
       </div>
