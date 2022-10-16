@@ -111,12 +111,10 @@ en: &DEFAULT_EN
         role: "Owner"
         image: assets/img/team/avnika.jpg
         social:
-          - url: https://www.instagram.com/avnikkaa18/
+          - url: http://instagram.com/prettylittlethings_156
             icon: fab fa-instagram
           - url: https://www.facebook.com/avnikam
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       # - name: "Larry Parker"
       #   role: "Lead Marketer"
       #   image: assets/img/team/2.jpg
@@ -156,15 +154,9 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: https://plt156.github.io/website/
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: http://instagram.com/prettylittlethings_156
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
