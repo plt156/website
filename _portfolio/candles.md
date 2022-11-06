@@ -14,6 +14,10 @@ caption:
 ## Wax Tablets
 Use the scented wax tablet to refresh your home & impart a lovely fragrance to your linens/clothes. Hang in an entryway, tuck in a drawer, or loop around a hanger in your closet.
 
+<p class="lead">
+    <a class="btn btn-primary btn-lg" target="_blank" href="https://plt156.github.io/scented-candles/" role="button">Learn more</a>
+</p>
+
 ![waxTablet](assets/img/portfolio/waxTablet.png)
 
 ## Candles

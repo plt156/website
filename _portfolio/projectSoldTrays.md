@@ -102,4 +102,13 @@ caption:
             </div>
          </div>
       </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156prt_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">LEGENDARY STRAWBERRY</h5>
+                <p class="card-text">PLT156PRT</p>    
+            </div>
+         </div>
+      </div>
    </div>
