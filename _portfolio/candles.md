@@ -28,8 +28,18 @@ Use the scented wax tablet to refresh your home & impart a lovely fragrance to y
 
 ![oceanBreeze](assets/img/portfolio/oceanBreeze.png)
 
+## Mini Scented Candles
+- Doug Bowls, Mini Urlis, Mini Scented Candles
+![MiniScentedCandles](assets/img/MiniScentedCandles.JPG)
+<p class="lead">
+    <a class="btn btn-primary btn-lg" target="_blank" href="https://plt156.github.io/scented-candles/" role="button">Visit the Gallery</a>
+</p>
+
 ## Variations:
 - Rose
 - Aqua Lotus
 - Sweet Lavender
 - Orange Cinnamon
+- Aqua Wave
+- Lemon & Cammomile
+- Peach & Coconut
