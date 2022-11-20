@@ -111,4 +111,31 @@ caption:
             </div>
          </div>
       </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156rrr_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">COLORS OF LOVE</h5>
+                <p class="card-text">PLT156RRR</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156rrr_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">COLORS OF LOVE</h5>
+                <p class="card-text">PLT156RRR</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156bpgt_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">PURPLE HONEYCREEPER</h5>
+                <p class="card-text">PLT156BPGT</p>    
+            </div>
+         </div>
+      </div>
    </div>
