@@ -138,4 +138,31 @@ caption:
             </div>
          </div>
       </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156lpsg_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">UNAKITE QUARTZ</h5>
+                <p class="card-text">PLT156LPSG</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156rpgt_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">AMETHYST GOLD</h5>
+                <p class="card-text">PLT156RPGT</p>    
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <div class="card mb-4 text-white bg-dark">
+            <img class="card-img-top" src="assets/img/portfolio/plt156tbh_thumb.png" alt="Card image cap">
+            <div class="card-body">
+               <h5 class="card-title">ARCTIC AZURE</h5>
+                <p class="card-text">PLT156TBH</p>    
+            </div>
+         </div>
+      </div>
    </div>
