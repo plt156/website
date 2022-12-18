@@ -12,7 +12,8 @@ caption:
 
 ULTRAMARINUS BLUE
 
-- INR 1650
+- INR 1999
 - 12 by 6 inches
 - Resin Metal Trays
 - Blues
+- [Buy it here on flipkart](https://www.flipkart.com/avnika-bhandari-gold-plated-decorative-platter/p/itm959fd6b5aab80?pid=DEPGKDGY6X2SJJWV)

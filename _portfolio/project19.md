@@ -11,6 +11,6 @@ caption:
 ---
 INFINITY GEMS
 
-- INR 1650
+- INR 1999
 - 12 by 6 inches
 - Resin Metal Trays

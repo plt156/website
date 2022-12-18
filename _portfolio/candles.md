@@ -16,6 +16,8 @@ Use the scented wax tablet to refresh your home & impart a lovely fragrance to y
 
 <p class="lead">
     <a class="btn btn-primary btn-lg" target="_blank" href="https://plt156.github.io/scented-candles/" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" target="_blank" href="https://www.flipkart.com/avnika-bhandari-wax-tablets-100-soy-wax-hand-poured-fragrance-infused-candle/p/itm1445641ae3775?pid=CANGKTT5XTYBW7VZ" role="button">Buy Scented Wax tablet on Flipkart</a>
+    <a class="btn btn-primary btn-lg" target="_blank" href="https://www.flipkart.com/avnika-bhandari-scented-hand-poured-soy-wax-metallic-candle-bowl/p/itm173afa0592918?pid=CANGKTRHW8TEXN3R" role="button">But Candle bowl on flipkart</a>
 </p>
 
 ![waxTablet](assets/img/portfolio/waxTablet.png)
