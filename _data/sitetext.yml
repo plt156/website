@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Avnika Bhandari is back into the world of creativity, art and imagination!
-    text: Shower your love, support and encouragement, [Order on Etsy](https://prettylittlethingsab.etsy.com)
+    text: Shower your love, support and encouragement, [Order on Etsy](https://prettylittlethingsab.etsy.com), [Visit my blog](https://plt156.github.io/plt-blog/)
     button: Tell Me More
     buttonlink: "#portfolio"
 
@@ -117,6 +117,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://prettylittlethingsab.etsy.com
             icon: fa-shopping-cart
+          - url: https://plt156.github.io/plt-blog/
+            icon: fa fa-rss
       # - name: "Larry Parker"
       #   role: "Lead Marketer"
       #   image: assets/img/team/2.jpg
@@ -160,6 +162,8 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: http://instagram.com/prettylittlethings_156
         icon: "fab fa-instagram"
+      - url: https://plt156.github.io/plt-blog/
+            icon: fa fa-rss
 en-US:
   <<: *DEFAULT_EN
 en-CA:
