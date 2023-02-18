@@ -163,7 +163,8 @@ en: &DEFAULT_EN
       - url: http://instagram.com/prettylittlethings_156
         icon: "fab fa-instagram"
       - url: https://plt156.github.io/plt-blog/
-            icon: fab fa-rss
+        icon: "fas fa-rss"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
