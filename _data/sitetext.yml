@@ -118,7 +118,7 @@ en: &DEFAULT_EN
           - url: https://prettylittlethingsab.etsy.com
             icon: fa-shopping-cart
           - url: https://plt156.github.io/plt-blog/
-            icon: fab fa-rss
+            icon: fas fa-rss
       # - name: "Larry Parker"
       #   role: "Lead Marketer"
       #   image: assets/img/team/2.jpg
